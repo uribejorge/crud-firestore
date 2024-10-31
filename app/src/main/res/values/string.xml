@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">prueba-crud-firestore</string>
+    <string name="cedula">Cédula</string>
+    <string name="nombre">Nombre</string>
+    <string name="email">Email</string>
+    <string name="telefono">Teléfono</string>
+    <string name="edad">Edad</string>
+    <string name="direccion">Dirección</string>
+</resources>
+
